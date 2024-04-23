@@ -19,7 +19,7 @@ Eclipse** - 🤝 Estoy buscando ayuda con **JAVA, Eclipse**,
 - 📄 Conoce mis experiencias [auxiliar eléctrico](auxiliar eléctrico)
 
 
-</a></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangonzalez23&show_icons=true&locale=en&layout= compact" alt="cristiangonzalez23" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangonzalez23&show_icons=true&locale=en" alt="cristiangonzalez23" /></p>
 
