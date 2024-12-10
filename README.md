@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Cristian Gonzalez</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas apasionado por la programación, la transformación digital y los videojuegos</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas apasionado por la programación, la transformación digital</h3>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/4def6735956a1efaf86d47d9d1fba32afc127b666d8884b1725a3d99903bc995/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726746578743d57656c636f6d652125463025394625393125384226616e696d6174696f6e3d66616465496e26636f6c6f723d313a3538643162322c3130303a323735356332" alt="Bienvenida" />
