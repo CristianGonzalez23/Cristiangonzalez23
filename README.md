@@ -49,7 +49,8 @@ Puedes encontrar todos mis proyectos en mi perfil de GitHub:
 ---
 
 ### 📫 Contacto:
-- 📧 **cristianr.gonzalezi@uqvirtual.edu.co**  
+- 📧 **cristianr.gonzalezi@uqvirtual.edu.co**
+- 📧 **cristian.gon1414@gmail.com**
 - 📱 [WhatsApp](https://wa.me/3008673152)  
 
 ---
