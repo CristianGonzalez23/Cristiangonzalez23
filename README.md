@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Cristian Gonzalez</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas apasionado por la programación, la transformación digital</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas apasionado por la programación y la transformación digital</h3>
 
 
 
